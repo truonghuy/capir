@@ -12,15 +12,15 @@ The repository includes codes and compiled executables to create simple collabor
 
 The following demo shows how to
 
-1. create a game level using [Tiled](http://www.mapeditor.org/),  
+1. create a game level using [Tiled](http://www.mapeditor.org/){:target="_blank"},  
 2. use the codes included to obtain the behaviors for the AI, then  
 3. run the game to play-test the level just created  
 
-[![Video to the demo 1](http://img.youtube.com/vi/nTYQ2Oo1udA/0.jpg)](http://www.youtube.com/watch?v=nTYQ2Oo1udA)
+[![Video to the demo 1](http://img.youtube.com/vi/nTYQ2Oo1udA/0.jpg)](http://www.youtube.com/watch?v=nTYQ2Oo1udA){:target="_blank"}
 
 The following demo demonstrates the intelligence of the AI
 
-[![Video to the demo 2](http://img.youtube.com/vi/Kn3CWDXw2Hw/0.jpg)](http://www.youtube.com/watch?v=Kn3CWDXw2Hw)
+[![Video to the demo 2](http://img.youtube.com/vi/Kn3CWDXw2Hw/0.jpg)](http://www.youtube.com/watch?v=Kn3CWDXw2Hw){:target="_blank"}
 
 #### Technical Description
 
@@ -41,12 +41,12 @@ that the assistant's resultant course of actions is near human-level.
 
 * Truong-Huy D. Nguyen, Tomi Silander, Lee Wee Sun and Leong Tze Yun (2014).  
 **Bootstrapping Simulation-based Algorithms with a Suboptimal Policy**.  
-ICAPS 2014. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ICAPS2014.pdf)
+ICAPS 2014. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ICAPS2014.pdf){:target="_blank"}
 * Truong-Huy D. Nguyen, Lee Wee Sun and Leong Tze Yun (2012).  
 **Bootstrapping Monte Carlo Tree Search with an Imperfect Heuristic**.  
-ECML/PKDD 2012. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ECML2012.pdf)
+ECML/PKDD 2012. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ECML2012.pdf){:target="_blank"}
 * Truong-Huy D. Nguyen, David Hsu, Lee Wee Sun, Leong Tze Yun, Leslie Pack Kaelbling, 
 Tomas Lozano-Perez, Andrew Haydn Grant (2011).  
 **CAPIR: Collaborative Action Planning with Intention Recognition**.  
 AIIDE 2011.
-[PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_AIIDE2011.pdf)
+[PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_AIIDE2011.pdf){:target="_blank"}
