@@ -11,6 +11,7 @@ The repository includes codes and compiled executables to create simple collabor
 #### Demos
 
 The following demo shows how to
+
 1. create a game level using [Tiled](http://www.mapeditor.org/),  
 2. use the codes included to obtain the behaviors for the AI, then  
 3. run the game to play-test the level just created  
