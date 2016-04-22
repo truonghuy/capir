@@ -28,12 +28,14 @@ that the assistant's resultant course of actions is near human-level.
 
 ## Related Publications
 
-* Truong-Huy D. Nguyen, Tomi Silander, Lee Wee Sun and Leong Tze Yun (2014). 
-**Bootstrapping Simulation-based Algorithms with a Suboptimal Policy**. ICAPS 2014. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ICAPS2014.pdf)
-* Truong-Huy D. Nguyen, Lee Wee Sun and Leong Tze Yun (2012). 
-**Bootstrapping Monte Carlo Tree Search with an Imperfect Heuristic**. ECML/PKDD 2012. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ECML2012.pdf)
+* Truong-Huy D. Nguyen, Tomi Silander, Lee Wee Sun and Leong Tze Yun (2014).  
+**Bootstrapping Simulation-based Algorithms with a Suboptimal Policy**.  
+ICAPS 2014. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ICAPS2014.pdf)
+* Truong-Huy D. Nguyen, Lee Wee Sun and Leong Tze Yun (2012).  
+**Bootstrapping Monte Carlo Tree Search with an Imperfect Heuristic**.  
+ECML/PKDD 2012. [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ECML2012.pdf)
 * Truong-Huy D. Nguyen, David Hsu, Lee Wee Sun, Leong Tze Yun, Leslie Pack Kaelbling, 
-Tomas Lozano-Perez, Andrew Haydn Grant (2011).
-**CAPIR: Collaborative Action Planning with Intention Recognition**.
+Tomas Lozano-Perez, Andrew Haydn Grant (2011).  
+**CAPIR: Collaborative Action Planning with Intention Recognition**.  
 AIIDE 2011.
 [PDF](https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_AIIDE2011.pdf)
