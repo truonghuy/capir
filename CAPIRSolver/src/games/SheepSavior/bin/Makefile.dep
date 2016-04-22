@@ -1,0 +1,184 @@
+Distribution.o: ../../../utils/Distribution.cc \
+  ../../../utils/Distribution.h ../../../utils/RandSource.h \
+  ../../../utils/Utilities.h
+Compression.o: ../../../utils/Compression.cc ../../../utils/Compression.h
+Utilities.o: ../../../utils/Utilities.cc ../../../utils/Utilities.h \
+  ../../../utils/Model.h ../../../utils/RandSource.h
+Simulator.o: ../../../utils/Simulator.cc ../../../utils/Simulator.h \
+  ../../../utils/Model.h ../../../utils/RandSource.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h
+ValueIteration.o: ../../../utils/ValueIteration.cc \
+  ../../../utils/ValueIteration.h
+PathFinder.o: ../../../utils/PathFinder.cc ../../../utils/PathFinder.h
+GameRunner.o: ../../../utils/GameRunner.cc ../../../utils/GameRunner.h \
+  ../../../utils/Simulator.h ../../../utils/Model.h \
+  ../../../utils/RandSource.h ../../../utils/Utilities.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../utils/Model.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../WorldModels/Maze.h ../../../WorldModels/Monster.h \
+  ../../../WorldModels/SpecialLocation.h ../../../utils/ValueIteration.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+pugixml.o: ../../../WorldModels/pugixml.cpp \
+  ../../../WorldModels/pugixml.hpp ../../../WorldModels/pugiconfig.hpp
+ObjectWithProperties.o: ../../../WorldModels/ObjectWithProperties.cc \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h
+SpecialLocation.o: ../../../WorldModels/SpecialLocation.cc \
+  ../../../WorldModels/SpecialLocation.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h
+Agent.o: ../../../WorldModels/Agent.cc ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h
+Player.o: ../../../WorldModels/Player.cc ../../../WorldModels/Player.h \
+  ../../../WorldModels/Agent.h ../../../utils/RandSource.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h \
+  ../../../utils/Distribution.h ../../../utils/RandSource.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../utils/Model.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Maze.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+Monster.o: ../../../WorldModels/Monster.cc ../../../WorldModels/Monster.h \
+  ../../../WorldModels/Agent.h ../../../utils/RandSource.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h \
+  ../../../utils/Distribution.h ../../../utils/RandSource.h \
+  ../../../WorldModels/Maze.h ../../../utils/Model.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Player.h \
+  ../../../WorldModels/SpecialLocation.h ../../../utils/ValueIteration.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+Maze.o: ../../../WorldModels/Maze.cc ../../../WorldModels/Maze.h \
+  ../../../utils/Model.h ../../../utils/RandSource.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Player.h \
+  ../../../WorldModels/Agent.h ../../../utils/RandSource.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h \
+  ../../../utils/Distribution.h ../../../WorldModels/Monster.h \
+  ../../../WorldModels/SpecialLocation.h ../../../utils/ValueIteration.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+MazeWorld.o: ../../../WorldModels/MazeWorld.cc \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../utils/Model.h \
+  ../../../utils/RandSource.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../WorldModels/Maze.h ../../../WorldModels/Monster.h \
+  ../../../WorldModels/SpecialLocation.h ../../../utils/ValueIteration.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h \
+  ../../../WorldModels/rapidxml.hpp ../../../utils/Compression.h
+GB_Ghost.o: ../src/GB_Ghost.cc ../src/GB_Ghost.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../utils/RandSource.h ../src/GB_Human.h \
+  ../../../WorldModels/Player.h ../src/GB_AiAssistant.h \
+  ../src/GhostBustersLevel.h ../../../WorldModels/MazeWorld.h \
+  ../../../WorldModels/pugixml.hpp ../../../WorldModels/pugiconfig.hpp \
+  ../../../utils/Model.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Maze.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h ../../../WorldModels/Maze.h \
+  ../src/GB_GhostMaze.h
+GB_GhostMaze.o: ../src/GB_GhostMaze.cc ../src/GB_GhostMaze.h \
+  ../src/GB_Ghost.h ../../../WorldModels/Monster.h \
+  ../../../WorldModels/Agent.h ../../../utils/RandSource.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h \
+  ../../../utils/Distribution.h ../../../utils/RandSource.h \
+  ../../../WorldModels/Maze.h ../../../utils/Model.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Player.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../src/GhostBustersLevel.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../WorldModels/Maze.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+GB_Sheep.o: ../src/GB_Sheep.cc ../src/GB_Sheep.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../utils/RandSource.h ../../../WorldModels/MazeWorld.h \
+  ../../../WorldModels/pugixml.hpp ../../../WorldModels/pugiconfig.hpp \
+  ../../../utils/Model.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Maze.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h ../../../WorldModels/Maze.h \
+  ../src/GB_SheepMaze.h
+GB_SheepMaze.o: ../src/GB_SheepMaze.cc ../src/GB_SheepMaze.h \
+  ../../../WorldModels/Maze.h ../../../utils/Model.h \
+  ../../../utils/RandSource.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../src/GB_Sheep.h \
+  ../../../WorldModels/Monster.h ../src/GhostBustersLevel.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../WorldModels/Maze.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+GB_Fiery.o: ../src/GB_Fiery.cc ../src/GB_FieryMaze.h \
+  ../../../WorldModels/Maze.h ../../../utils/Model.h \
+  ../../../utils/RandSource.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../src/GB_Fiery.h \
+  ../../../WorldModels/Monster.h
+GB_FieryMaze.o: ../src/GB_FieryMaze.cc ../src/GB_FieryMaze.h \
+  ../../../WorldModels/Maze.h ../../../utils/Model.h \
+  ../../../utils/RandSource.h ../../../utils/Utilities.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../src/GB_Fiery.h \
+  ../../../WorldModels/Monster.h ../src/GhostBustersLevel.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../WorldModels/Maze.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+GB_Human.o: ../src/GB_Human.cc ../src/GB_Human.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../utils/RandSource.h
+GB_AiAssistant.o: ../src/GB_AiAssistant.cc ../src/GB_AiAssistant.h \
+  ../../../WorldModels/Player.h ../../../WorldModels/Agent.h \
+  ../../../utils/RandSource.h ../../../WorldModels/ObjectWithProperties.h \
+  ../../../utils/Utilities.h ../../../utils/Distribution.h \
+  ../../../utils/RandSource.h ../src/GhostBustersLevel.h \
+  ../../../WorldModels/MazeWorld.h ../../../WorldModels/pugixml.hpp \
+  ../../../WorldModels/pugiconfig.hpp ../../../utils/Model.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Player.h \
+  ../../../WorldModels/Maze.h ../../../WorldModels/Monster.h \
+  ../../../WorldModels/SpecialLocation.h ../../../utils/ValueIteration.h \
+  ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h
+GhostBustersLevel.o: ../src/GhostBustersLevel.cc \
+  ../src/GhostBustersLevel.h ../../../WorldModels/MazeWorld.h \
+  ../../../WorldModels/pugixml.hpp ../../../WorldModels/pugiconfig.hpp \
+  ../../../utils/Model.h ../../../utils/RandSource.h \
+  ../../../utils/Utilities.h ../../../WorldModels/Player.h \
+  ../../../WorldModels/Agent.h ../../../utils/RandSource.h \
+  ../../../WorldModels/ObjectWithProperties.h ../../../utils/Utilities.h \
+  ../../../utils/Distribution.h ../../../WorldModels/Maze.h \
+  ../../../WorldModels/Monster.h ../../../WorldModels/SpecialLocation.h \
+  ../../../utils/ValueIteration.h ../../../WorldModels/GameTileSheet.h \
+  ../../../WorldModels/MazeWorldDescription.h ../src/GB_Human.h \
+  ../../../WorldModels/Player.h ../src/GB_AiAssistant.h \
+  ../src/GB_SheepMaze.h ../../../WorldModels/Maze.h ../src/GB_Sheep.h \
+  ../../../WorldModels/Monster.h ../src/GB_GhostMaze.h ../src/GB_Ghost.h \
+  ../src/GB_FieryMaze.h ../src/GB_Fiery.h

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_stats.html" title="Stats\&lt; State \&gt;" alt="" coords="5,5,115,33"/>
+<area shape="rect" id="node3" href="$struct_state.html" title="State" alt="" coords="163,5,216,33"/>
+<area shape="rect" id="node5" href="$struct_augmented_state.html" title="AugmentedState" alt="" coords="264,5,387,33"/>
+</map>

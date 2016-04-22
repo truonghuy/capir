@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_simulator.html" title="Run a single or multiple simulations (Wee Sun) and single games with human inputs (Huy)..." alt="" coords="7,5,84,33"/>
+<area shape="rect" id="node3" href="$class_game_runner.html" title="GameRunner" alt="" coords="135,5,236,33"/>
+</map>

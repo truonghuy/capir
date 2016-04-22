@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_n_p_c_behavior.html" title="The base class of NPC behavior." alt="" coords="5,55,109,83"/>
+<area shape="rect" id="node3" href="$class_fiery_script.html" title="Behavior script of Fiery." alt="" coords="163,5,248,33"/>
+<area shape="rect" id="node5" href="$class_ghost_script.html" title="Behavior script of Ghost." alt="" coords="160,55,251,83"/>
+<area shape="rect" id="node7" href="$class_sheep_script.html" title="Behavior script of Sheep." alt="" coords="157,106,253,134"/>
+</map>

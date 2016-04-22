@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_monster.html" title="Base class of all NPCs." alt="" coords="169,161,239,189"/>
+<area shape="rect" id="node13" href="$class_player.html" title="Base class of individual game&#39;s Human and AiAssistant." alt="" coords="355,161,416,189"/>
+<area shape="rect" id="node2" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="247,6,396,34"/>
+<area shape="rect" id="node7" href="$class_g_b___fiery.html" title="GB_Fiery" alt="" coords="5,238,83,266"/>
+<area shape="rect" id="node9" href="$class_g_b___ghost.html" title="GB_Ghost" alt="" coords="107,238,192,266"/>
+<area shape="rect" id="node11" href="$class_g_b___sheep.html" title="GB_Sheep" alt="" coords="216,238,304,266"/>
+<area shape="rect" id="node15" href="$class_g_b___ai_assistant.html" title="GB_AiAssistant" alt="" coords="328,238,443,266"/>
+<area shape="rect" id="node17" href="$class_g_b___human.html" title="GB_Human" alt="" coords="467,238,557,266"/>
+</map>

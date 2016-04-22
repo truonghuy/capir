@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_maze.html" title="This class is the base class for all individual tasks/puzzles that the protagonists need to solve in ..." alt="" coords="7,55,63,83"/>
+<area shape="rect" id="node3" href="$class_g_b___fiery_maze.html" title="GB_FieryMaze" alt="" coords="117,5,232,33"/>
+<area shape="rect" id="node5" href="$class_g_b___ghost_maze.html" title="GB_GhostMaze" alt="" coords="115,55,235,83"/>
+<area shape="rect" id="node7" href="$class_g_b___sheep_maze.html" title="GB_SheepMaze" alt="" coords="113,106,236,134"/>
+</map>

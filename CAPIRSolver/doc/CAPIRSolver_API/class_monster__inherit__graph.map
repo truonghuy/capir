@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_g_b___fiery.html" title="GB_Fiery" alt="" coords="5,238,83,266"/>
+<area shape="rect" id="node9" href="$class_g_b___ghost.html" title="GB_Ghost" alt="" coords="107,238,192,266"/>
+<area shape="rect" id="node11" href="$class_g_b___sheep.html" title="GB_Sheep" alt="" coords="216,238,304,266"/>
+<area shape="rect" id="node2" href="$class_agent.html" title="Base class of Monster and HumanAssistant." alt="" coords="121,83,177,111"/>
+<area shape="rect" id="node4" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="75,6,224,34"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_maze.html" title="This class is the base class for all individual tasks/puzzles that the protagonists need to solve in ..." alt="" coords="136,379,192,407"/>
+<area shape="rect" id="node21" href="$class_monster.html" title="Base class of all NPCs." alt="" coords="47,473,116,501"/>
+<area shape="rect" id="node4" href="$class_maze_world.html" title="This class is the base class for a game&#39;s level in which the protagonists need to solve puzzles t..." alt="" coords="133,286,227,314"/>
+<area shape="rect" id="node14" href="$class_player.html" title="Base class of individual game&#39;s Human and AiAssistant." alt="" coords="80,193,141,221"/>
+<area shape="rect" id="node6" href="$class_model.html" title="Base class for MDP models." alt="" coords="220,193,279,221"/>
+<area shape="rect" id="node8" href="$struct_augmented_state.html" title="AugmentedState" alt="" coords="381,193,504,221"/>
+<area shape="rect" id="node10" href="$struct_state.html" title="State" alt="" coords="416,86,469,114"/>
+<area shape="rect" id="node12" href="$class_stats.html" title="Stats\&lt; State \&gt;" alt="" coords="388,6,497,34"/>
+<area shape="rect" id="node16" href="$class_agent.html" title="Base class of Monster and HumanAssistant." alt="" coords="83,86,139,114"/>
+<area shape="rect" id="node18" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="159,6,308,34"/>
+<area shape="rect" id="node26" href="$class_special_location.html" title="SpecialLocation" alt="" coords="251,139,368,167"/>
+</map>

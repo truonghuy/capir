@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_fiery_script.html" title="Behavior script of Fiery." alt="" coords="5,83,91,111"/>
+<area shape="rect" id="node5" href="$class_ghost_script.html" title="Behavior script of Ghost." alt="" coords="115,83,205,111"/>
+<area shape="rect" id="node7" href="$class_sheep_script.html" title="Behavior script of Sheep." alt="" coords="229,83,325,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_g_b___fiery_maze.html" title="GB_FieryMaze" alt="" coords="5,83,120,111"/>
+<area shape="rect" id="node5" href="$class_g_b___ghost_maze.html" title="GB_GhostMaze" alt="" coords="144,83,264,111"/>
+<area shape="rect" id="node7" href="$class_g_b___sheep_maze.html" title="GB_SheepMaze" alt="" coords="288,83,411,111"/>
+</map>

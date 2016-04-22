@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_simulator.html" title="Run a single or multiple simulations (Wee Sun) and single games with human inputs (Huy)..." alt="" coords="5,259,83,287"/>
+<area shape="rect" id="node4" href="$class_model.html" title="Base class for MDP models." alt="" coords="27,166,85,194"/>
+<area shape="rect" id="node6" href="$class_maze_world.html" title="This class is the base class for a game&#39;s level in which the protagonists need to solve puzzles t..." alt="" coords="140,259,233,287"/>
+<area shape="rect" id="node15" href="$class_player.html" title="Base class of individual game&#39;s Human and AiAssistant." alt="" coords="261,353,323,381"/>
+<area shape="rect" id="node9" href="$struct_augmented_state.html" title="AugmentedState" alt="" coords="125,166,248,194"/>
+<area shape="rect" id="node11" href="$struct_state.html" title="State" alt="" coords="160,86,213,114"/>
+<area shape="rect" id="node13" href="$class_stats.html" title="Stats\&lt; State \&gt;" alt="" coords="132,6,241,34"/>
+<area shape="rect" id="node17" href="$class_agent.html" title="Base class of Monster and HumanAssistant." alt="" coords="323,259,379,287"/>
+<area shape="rect" id="node19" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="276,166,425,194"/>
+</map>

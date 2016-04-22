@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_player.html" title="Base class of individual game&#39;s Human and AiAssistant." alt="" coords="49,161,111,189"/>
+<area shape="rect" id="node4" href="$class_agent.html" title="Base class of Monster and HumanAssistant." alt="" coords="52,83,108,111"/>
+<area shape="rect" id="node6" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="5,6,155,34"/>
+</map>

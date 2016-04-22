@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_maze_world.html" title="This class is the base class for a game&#39;s level in which the protagonists need to solve puzzles t..." alt="" coords="27,83,120,111"/>
+<area shape="rect" id="node4" href="$class_model.html" title="Base class for MDP models." alt="" coords="44,6,103,34"/>
+</map>

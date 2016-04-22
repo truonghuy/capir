@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_capir_box.html" title="The CAPIR object for action query." alt="" coords="87,286,164,314"/>
+<area shape="rect" id="node4" href="$class_agent_script.html" title="Control script of the human&#45;controlled character." alt="" coords="223,193,313,221"/>
+<area shape="rect" id="node6" href="$class_main_c_sharp.html" title="The main game script." alt="" coords="77,99,173,127"/>
+<area shape="rect" id="node8" href="$class_map_data.html" title="This class represents the level&#39;s map and initial state." alt="" coords="87,6,164,34"/>
+</map>

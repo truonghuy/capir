@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_player.html" title="Base class of individual game&#39;s Human and AiAssistant." alt="" coords="272,166,333,194"/>
+<area shape="rect" id="node8" href="$class_maze_world.html" title="This class is the base class for a game&#39;s level in which the protagonists need to solve puzzles t..." alt="" coords="144,259,237,287"/>
+<area shape="rect" id="node4" href="$class_agent.html" title="Base class of Monster and HumanAssistant." alt="" coords="275,86,331,114"/>
+<area shape="rect" id="node6" href="$class_object_with_properties.html" title="This class defines objects with properties and able to react." alt="" coords="228,6,377,34"/>
+<area shape="rect" id="node10" href="$class_model.html" title="Base class for MDP models." alt="" coords="5,166,64,194"/>
+<area shape="rect" id="node12" href="$struct_augmented_state.html" title="AugmentedState" alt="" coords="88,166,211,194"/>
+<area shape="rect" id="node14" href="$struct_state.html" title="State" alt="" coords="123,86,176,114"/>
+<area shape="rect" id="node16" href="$class_stats.html" title="Stats\&lt; State \&gt;" alt="" coords="95,6,204,34"/>
+</map>
