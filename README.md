@@ -1,10 +1,8 @@
 ### CAPIR (Collaborative Action Planning with Intention Recognition)
 
-This project includes codes to create simple collaborative games. 
-
 **Acknowledgments:** This project was funded by the Singapore-MIT GAMBIT Game Lab.
 
-The repository includes:
+The repository includes codes and compiled executables to create simple collaborative games.
 * CAPIRSolver: C++ codes used to compute behavior policies.
 * Unity codes: The game codes 
 * Compiled game executables: Mac OS X and Win32 
@@ -12,7 +10,14 @@ The repository includes:
 
 #### Demos
 
+The following demo shows how to
+1. create a game level using [Tiled](http://www.mapeditor.org/), 
+2. use the codes included to obtain the behaviors for the AI, then
+3. run the game to play-test the level just created
+
 [![Video to the demo 1](http://img.youtube.com/vi/nTYQ2Oo1udA/0.jpg)](http://www.youtube.com/watch?v=nTYQ2Oo1udA)
+
+The following demo demonstrates the intelligence of the AI
 
 [![Video to the demo 2](http://img.youtube.com/vi/Kn3CWDXw2Hw/0.jpg)](http://www.youtube.com/watch?v=Kn3CWDXw2Hw)
 
