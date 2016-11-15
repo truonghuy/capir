@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>CAPIR: Collaborative Action Planner using Intention Recognition by truonghuy</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>CAPIR: Collaborative Action Planner using Intention Recognition</h1>
+        <p>This project includes codes to create simple collaborative games. </p>
+
+        <p class="view"><a href="https://github.com/truonghuy/capir">View the Project on GitHub <small>truonghuy/capir</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/truonghuy/capir/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/truonghuy/capir/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/truonghuy/capir">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h3>
+<a id="capir-collaborative-action-planning-with-intention-recognition" class="anchor" href="#capir-collaborative-action-planning-with-intention-recognition" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CAPIR (Collaborative Action Planning with Intention Recognition)</h3>
+
+<p><strong>Acknowledgments:</strong> This project was funded by the Singapore-MIT GAMBIT Game Lab.</p>
+
+<p>The repository includes codes and compiled executables to create simple collaborative games.</p>
+
+<ul>
+<li>CAPIRSolver: C++ codes used to compute behavior policies.</li>
+<li>Unity codes: The game codes </li>
+<li>Compiled game executables: Mac OS X and Win32 </li>
+<li>CAPIR User Manual </li>
+</ul>
+
+<h4>
+<a id="demos" class="anchor" href="#demos" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Demos</h4>
+
+<p>The following demo shows how to</p>
+
+<ol>
+<li>create a game level using <a href="http://www.mapeditor.org/">Tiled</a>,<br>
+</li>
+<li>use the codes included to obtain the behaviors for the AI, then<br>
+</li>
+<li>run the game to play-test the level just created<br>
+</li>
+</ol>
+
+<p><a href="http://www.youtube.com/watch?v=nTYQ2Oo1udA"><img src="http://img.youtube.com/vi/nTYQ2Oo1udA/0.jpg" alt="Video to the demo 1"></a></p>
+
+<p>The following demo demonstrates the intelligence of the AI</p>
+
+<p><a href="http://www.youtube.com/watch?v=Kn3CWDXw2Hw"><img src="http://img.youtube.com/vi/Kn3CWDXw2Hw/0.jpg" alt="Video to the demo 2"></a></p>
+
+<h4>
+<a id="technical-description" class="anchor" href="#technical-description" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Technical Description</h4>
+
+<p>We address the Lead-Assistant Collaboration problem that characterizes an 
+autonomous assistant aiding an agent in achieving multiple goals in a known 
+environment; the main source of uncertainty is the agent's drifting intention 
+and behavior model in achieving the goals. We propose the CAPIR framework 
+(Collaborative Action Planner using Intention Recognition) to solve this problem 
+by tracking the assisted agent's intention using inverse planning (a concept 
+inherited from cognitive science), and constructing actions based on the 
+assistant's belief on the agent's intended goal and its knowledge of solving 
+each goal (modeled as a Markov decision process). For complicated goals that yield 
+large planning space, simulation-based algorithms are devised to approximately 
+solve the goals online. Evaluation with human players in an experiment game shows 
+that the assistant's resultant course of actions is near human-level.</p>
+
+<h4>
+<a id="related-publications" class="anchor" href="#related-publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Related Publications</h4>
+
+<ul>
+<li>Truong-Huy D. Nguyen, Tomi Silander, Lee Wee Sun and Leong Tze Yun (2014).<br>
+<strong>Bootstrapping Simulation-based Algorithms with a Suboptimal Policy</strong>.<br>
+ICAPS 2014. <a href="https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ICAPS2014.pdf">PDF</a>
+</li>
+<li>Truong-Huy D. Nguyen, Lee Wee Sun and Leong Tze Yun (2012).<br>
+<strong>Bootstrapping Monte Carlo Tree Search with an Imperfect Heuristic</strong>.<br>
+ECML/PKDD 2012. <a href="https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_ECML2012.pdf">PDF</a>
+</li>
+<li>Truong-Huy D. Nguyen, David Hsu, Lee Wee Sun, Leong Tze Yun, Leslie Pack Kaelbling, 
+Tomas Lozano-Perez, Andrew Haydn Grant (2011).<br>
+<strong>CAPIR: Collaborative Action Planning with Intention Recognition</strong>.<br>
+AIIDE 2011.
+<a href="https://dl.dropboxusercontent.com/u/76930/Personal/publications/Nguyen_AIIDE2011.pdf">PDF</a>
+</li>
+</ul>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/truonghuy">truonghuy</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
